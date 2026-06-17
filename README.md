@@ -20,8 +20,7 @@ A modern, responsive personal portfolio website showcasing my software engineeri
 - JavaScript
 
 ## Live Demo
-
-inspiring-gaufre-40cd33.netlify.app
+https://6a32441fbe908cd8e1d3df30--inspiring-gaufre-40cd33.netlify.app/
 
 ## Author
 
